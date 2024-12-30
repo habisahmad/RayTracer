@@ -21,9 +21,6 @@ book by Peter Shirley, Trevor David Black, and Steve Hollasch.
 ## 4. Generate image
 `build\RayTracer > image.ppm`
 
-# Usage
-
-
 # Acknowledgments
 Created using Peter Shirley's [Ray Tracing in One Weekend.](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
