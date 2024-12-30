@@ -10,6 +10,7 @@ book by Peter Shirley, Trevor David Black, and Steve Hollasch.
 ## 1. Clone the repository
 
 `git clone https://github.com/habisahmad/RayTracer.git`
+
 `cd RayTracer`
 
 ## 2. Create build file
